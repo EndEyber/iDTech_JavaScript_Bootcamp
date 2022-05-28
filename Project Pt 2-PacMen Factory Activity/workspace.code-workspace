@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Jeremy - MIT Java",
+			"path": ".."
+		},
+		{
+			"name": "PacMan_Exercise",
+			"path": "..\\..\\Downloads\\PacMan_Exercise"
+		},
+		{
+			"name": "Debugging",
+			"path": "..\\..\\Downloads\\Debugging"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PacMan_Exercise"
+	}
+}
